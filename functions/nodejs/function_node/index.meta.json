@@ -1,0 +1,16 @@
+{
+  "apiID": "package_480c29__c__function_aadhdha6fd6cu",
+  "apiName": "function_node",
+  "label": {
+    "zh_CN": "func_devops_test01",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

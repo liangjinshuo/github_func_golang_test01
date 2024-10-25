@@ -1,0 +1,16 @@
+{
+  "apiID": "package_480c29__c__function_aadhdfnwo7oda",
+  "apiName": "function_golang_test",
+  "label": {
+    "zh_CN": "go函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
